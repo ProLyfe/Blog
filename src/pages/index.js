@@ -66,6 +66,7 @@ function Home() {
               to={useBaseUrl('docs/')}>
               Voir mes articles 
             </Link>
+            <img className="logo-home" src="../../static/img/blog-images/newLogoSVG.svg"/>
           </div>
         </div>
       </header>
