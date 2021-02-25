@@ -63,11 +63,11 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
+              to={useBaseUrl('blog/')}>
               Voir mes articles 
             </Link>
-            <img className="logo-home" src="../../static/img/blog-images/newLogoSVG.svg"/>
           </div>
+            <img className="logo-home" src="../../static/img/blog-images/newLogoSVG.svg"/>
         </div>
       </header>
       <main>
